@@ -6,6 +6,6 @@ Conclusion:
 
 The best way to become a good developer is by practicing what you have learned. Practice makes perfect. Building a simple Drum Kit will help you practice and improve your coding skills in general.
 
-You can also go through this project website and give your valuable feedback.
+You can also go through this project website and give your valuable feedback.👁‍🗨
 
-Thank you for reading this article, I hope you found it useful. 
+Thank you for reading this article, I hope you found it useful.✨
